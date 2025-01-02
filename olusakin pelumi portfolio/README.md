@@ -1,16 +1,28 @@
-# [Personal: HTML5 website template](http://buckymaler.com/featured-work/personal)
+# Olusakin Pelumi - Web Development Portfolio
 
-Personal is a modern and bold website template suited perfectly for a UI/UX Design professional's portfolio.
+This portfolio showcases my skills and experience in web development, brand management and digital marketing, focusing on front-end technologies and creating engaging user experiences.
 
-The original PSD is included and was provided by [Web Donut](http://webdonut.net)
+## Featured Project: Olusakin Pelumi portfolio 
 
-This project was developed with HTML5, Sass, jQuery, TweenLite, and ScrollMagic.
+This project involved developing a modern and responsive website designed specifically for my portfolio and projects. It emphasizes clean aesthetics, smooth animations, and a user-friendly interface.
 
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+**Key Features:**
 
-[LIVE PREVIEW](http://buckymaler.com/featured-work/personal)
+*   Responsive design for optimal viewing on all devices (desktops, tablets, and mobile phones).
+*   Smooth scrolling and engaging animations using TweenLite and ScrollMagic.
+*   Clean and modern design aesthetic.
+*   Optimized for performance with minified assets and compressed images.
 
-## Misc:
+**Technologies Used:**
 
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Web Donut: [Twitter](https://twitter.com/@thewebdonut), [Dribbble](https://dribbble.com/WebDonut)
+*   **Front-End Development:** HTML5, CSS3 (with Sass preprocessor), JavaScript (ES6+), React, Bootstrap
+*   **Other:** Favicon implementation for branding
+**Development Process & Learning Outcomes:**
+
+*   Strengthened my proficiency in HTML5 for semantic markup and website structure.
+*   Gained practical experience using Sass for efficient CSS styling and maintainability.
+*   Implemented interactive elements and dynamic behavior using JavaScript and jQuery.
+*   Mastered the use of TweenLite and ScrollMagic to create smooth and engaging scrolling animations.
+*   Focused on performance optimization techniques, including minifying CSS and JavaScript files and optimizing images for web use.
+*   Developed skills in integrating React components into the website for dynamic content and improved user experience.
+*   Used Bootstrap to create a responsive layout that adapts to different screen sizes.
